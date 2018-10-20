@@ -6,10 +6,33 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		135F0333217BBEBB0039A79D /* initials.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = initials.c; sourceTree = "<group>"; };
+		135F0334217BBF0A0039A79D /* caesar.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = caesar.c; sourceTree = "<group>"; };
+		135F0335217BBF430039A79D /* vigenere.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = vigenere.c; sourceTree = "<group>"; };
+		135F0336217BBF7D0039A79D /* crack.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = crack.c; sourceTree = "<group>"; };
+		135F0337217BBFC40039A79D /* fifteen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = fifteen.c; sourceTree = "<group>"; };
+		135F0338217BBFC40039A79D /* fifteen_questions.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = fifteen_questions.txt; sourceTree = "<group>"; };
+		135F0339217BC0460039A79D /* find-more */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "find-more"; sourceTree = "<group>"; };
+		135F033A217BC0C60039A79D /* resize-more */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "resize-more"; sourceTree = "<group>"; };
+		135F033C217BC14C0039A79D /* whodunnit */ = {isa = PBXFileReference; lastKnownFileType = folder; path = whodunnit; sourceTree = "<group>"; };
+		135F033D217BC1B20039A79D /* recover.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = recover.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		135F032C217BBE960039A79D = {
 			isa = PBXGroup;
 			children = (
+				135F0333217BBEBB0039A79D /* initials.c */,
+				135F0334217BBF0A0039A79D /* caesar.c */,
+				135F0335217BBF430039A79D /* vigenere.c */,
+				135F0336217BBF7D0039A79D /* crack.c */,
+				135F0337217BBFC40039A79D /* fifteen.c */,
+				135F0338217BBFC40039A79D /* fifteen_questions.txt */,
+				135F033D217BC1B20039A79D /* recover.c */,
+				135F0339217BC0460039A79D /* find-more */,
+				135F033A217BC0C60039A79D /* resize-more */,
+				135F033C217BC14C0039A79D /* whodunnit */,
 			);
 			sourceTree = "<group>";
 		};
